@@ -4,6 +4,7 @@
 techonology used:
 HTML,CSS,JavaScript
 
+Note:This is good for learning javascript for beginners
 usage:
 1.open the "index.html" in a browser.
 2.Enter your email and password.
